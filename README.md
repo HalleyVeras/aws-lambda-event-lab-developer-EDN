@@ -1,8 +1,11 @@
 # 🛡️ Automating the End: Terminating EC2 Instances with Lambda | Developer EDN
 
+**Curso: Developer – Escola da Nuvem**  
+**Autor: Halley Veras**
+
 Este repositório contém o passo a passo detalhado do laboratório **"Automatizando o Fim das Instâncias EC2"** realizado no curso **Developer EDN** da **Escola da Nuvem**.
 
-> 📌 **Objetivos**:
+## 🎯 Objetivos:
 > - Criar uma política IAM para finalizar instâncias EC2.
 > - Criar e configurar uma função Lambda.
 > - Associar permissões corretas.
