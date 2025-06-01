@@ -49,6 +49,25 @@ Este repositório contém o passo a passo detalhado do laboratório **"Automatiz
 
 
 
+    {
+      "Version": "2012-10-17",
+      "Statement": [
+        {
+          "Effect": "Allow",
+          "Action": [
+            "logs:CreateLogStream",
+            "logs:CreateLogGroup",
+            "logs:PutLogEvents",
+            "ec2:DescribeInstances",
+            "ec2:TerminateInstances",
+            "ec2:DescribeRegions"
+          ],
+          "Resource": "*"
+        }
+      ]
+    }
+
+
 
 ---
 
