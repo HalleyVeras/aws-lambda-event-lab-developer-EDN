@@ -1,6 +1,6 @@
 # 🛡️ Automating the End: Terminating EC2 Instances with Lambda | Developer EDN
 
-![1](https://raw.githubusercontent.com/HalleyVeras/aws-lambda-event-lab-developer-EDN/refs/heads/main/arquivos1/Image1.jpg)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-lambda-event-lab-developer-EDN/refs/heads/main/vibrant.jpg)
 
 **Curso: Developer – Escola da Nuvem**  
 **Autor: Halley Veras**
