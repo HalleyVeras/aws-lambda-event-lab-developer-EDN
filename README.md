@@ -61,7 +61,12 @@ Este repositório contém o passo a passo detalhado do laboratório **"Automatiz
 5. Nomeie a Role como:
 6. Clique em **Criar função**.
 
-<!-- 📸 Adicione aqui o print da criação da função com Lambda e a política anexada -->
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-lambda-event-lab-developer-EDN/refs/heads/main/arquivos1/2025-06-01_16-23.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-lambda-event-lab-developer-EDN/refs/heads/main/arquivos1/2025-06-01_16-25.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-lambda-event-lab-developer-EDN/refs/heads/main/arquivos1/2025-06-01_16-26.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-lambda-event-lab-developer-EDN/refs/heads/main/arquivos1/2025-06-01_16-52.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-lambda-event-lab-developer-EDN/refs/heads/main/arquivos1/2025-06-01_16-52_1.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-lambda-event-lab-developer-EDN/refs/heads/main/arquivos1/Role-Created-halley-veras.png)
 
 ---
 
@@ -75,7 +80,12 @@ Este repositório contém o passo a passo detalhado do laboratório **"Automatiz
 6. Em **Permissões**, selecione **Usar uma função existente** e escolha:
 
 
-<!-- 📸 Adicione aqui o print da criação da função Lambda -->
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-lambda-event-lab-developer-EDN/refs/heads/main/arquivos1/2025-06-01_16-54.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-lambda-event-lab-developer-EDN/refs/heads/main/arquivos1/2025-06-01_16-56.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-lambda-event-lab-developer-EDN/refs/heads/main/arquivos1/2025-06-01_16-59.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-lambda-event-lab-developer-EDN/refs/heads/main/arquivos1/2025-06-01_17-02.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-lambda-event-lab-developer-EDN/refs/heads/main/arquivos1/2025-06-01_17-04.png)
+
 
 ---
 
@@ -93,7 +103,10 @@ Este repositório contém o passo a passo detalhado do laboratório **"Automatiz
   ```
 6. Clique em **Salvar**.
 
-<!-- 📸 Adicione aqui o print do upload do código, configuração de timeout e handler -->
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-lambda-event-lab-developer-EDN/refs/heads/main/arquivos1/2025-06-01_17-07.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-lambda-event-lab-developer-EDN/refs/heads/main/arquivos1/2025-06-01_17-08.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-lambda-event-lab-developer-EDN/refs/heads/main/arquivos1/2025-06-01_17-09.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-lambda-event-lab-developer-EDN/refs/heads/main/arquivos1/2025-06-01_17-12.png)
 
 ---
 
@@ -113,30 +126,20 @@ Este repositório contém o passo a passo detalhado do laboratório **"Automatiz
   ```
 4. Clique em **Adicionar**.
 
-<!-- 📸 Adicione aqui o print da configuração do gatilho EventBridge -->
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-lambda-event-lab-developer-EDN/refs/heads/main/arquivos1/2025-06-01_17-13.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-lambda-event-lab-developer-EDN/refs/heads/main/arquivos1/2025-06-01_17-15.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-lambda-event-lab-developer-EDN/refs/heads/main/arquivos1/2025-06-01_17-20.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-lambda-event-lab-developer-EDN/refs/heads/main/arquivos1/2025-06-01_17-22.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-lambda-event-lab-developer-EDN/refs/heads/main/arquivos1/2025-06-01_17-24.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-lambda-event-lab-developer-EDN/refs/heads/main/arquivos1/Lambda-Trigger-Created.png)
 
 ---
 
-## 6️⃣ Excluir Recursos (Limpeza)
 
-1. Exclua a **Função Lambda**:
-- Lambda > Funções > Selecione a função > Ações > Excluir.
-2. Exclua a **Role IAM**:
-- IAM > Funções > Selecione a função > Excluir.
-3. Exclua a **Política IAM**:
-- IAM > Políticas > Selecione a política > Excluir.
-4. Exclua a **Regra EventBridge**:
-- EventBridge > Regras > Selecione a regra > Excluir.
 
-<!-- 📸 Adicione aqui o print da exclusão dos recursos -->
+✅ **Laboratório concluído!🚀**
 
----
 
-✅ **Laboratório concluído!**
-
-Parabéns por finalizar o laboratório! 🚀
-
----
 
 ## 📝 Créditos
 
