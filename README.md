@@ -143,7 +143,7 @@ Este repositório contém o passo a passo detalhado do laboratório **"Automatiz
 
 ## 📝 Créditos
 
-Este laboratório foi realizado no curso **Developer EDN** da **Escola da Nuvem**.
+Este laboratório foi realizado no curso **Developer** da **Escola da Nuvem**.
 
 ---
 
