@@ -23,7 +23,7 @@ Este repositório contém o passo a passo detalhado do laboratório **"Automatiz
 - [3️⃣ Criar Função Lambda](#3️⃣-criar-função-lambda)
 - [4️⃣ Configurar Script Lambda](#4️⃣-configurar-script-lambda)
 - [5️⃣ Agendar com EventBridge](#5️⃣-agendar-com-eventbridge)
-- [6️⃣ Excluir Recursos (Limpeza)](#6️⃣-excluir-recursos-limpeza)
+
 
 ---
 
