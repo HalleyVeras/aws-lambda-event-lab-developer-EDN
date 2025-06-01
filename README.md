@@ -1,5 +1,7 @@
 # 🛡️ Automating the End: Terminating EC2 Instances with Lambda | Developer EDN
 
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-lambda-event-lab-developer-EDN/refs/heads/main/arquivos1/Image1.jpg)
+
 **Curso: Developer – Escola da Nuvem**  
 **Autor: Halley Veras**
 
@@ -35,7 +37,18 @@ Este repositório contém o passo a passo detalhado do laboratório **"Automatiz
 6. Nomeie a política como:
 7. Clique em **Criar política**.
 
-<!-- 📸 Adicione aqui o print do console IAM > Políticas > Criar política -->
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-lambda-event-lab-developer-EDN/refs/heads/main/arquivos1/2025-06-01_16-09.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-lambda-event-lab-developer-EDN/refs/heads/main/arquivos1/2025-06-01_16-09_1.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-lambda-event-lab-developer-EDN/refs/heads/main/arquivos1/2025-06-01_16-11.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-lambda-event-lab-developer-EDN/refs/heads/main/arquivos1/2025-06-01_16-12.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-lambda-event-lab-developer-EDN/refs/heads/main/arquivos1/2025-06-01_16-13.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-lambda-event-lab-developer-EDN/refs/heads/main/arquivos1/2025-06-01_16-14.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-lambda-event-lab-developer-EDN/refs/heads/main/arquivos1/2025-06-01_16-15.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-lambda-event-lab-developer-EDN/refs/heads/main/arquivos1/2025-06-01_16-19.png)
+![1](https://raw.githubusercontent.com/HalleyVeras/aws-lambda-event-lab-developer-EDN/refs/heads/main/arquivos1/Policy-Created-halley-veras.png)
+
+
+
 
 ---
 
